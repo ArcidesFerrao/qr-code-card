@@ -15,14 +15,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Available Scripts](#available-scripts)
   - [Learn More](#learn-more)
 - [Deployment](#deployment)
-- [References]
+- [References](#references)
 
 
 ## Overview
 
 ### Screenshot
 
-![](./src/images/screenshot.png)
+![Screenshot of the project](./src/images/screenshot.png)
 
 
 ### Links
