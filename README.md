@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [repository](https://github.com/ArcidesFerrao/qr-code-card)
+- Live Site URL: [github-pages](https://arcidesferrao.github.io/qr-code-card/)
 
 ## My process
 
@@ -41,7 +41,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-    Manipulatiing variables with media queries just makes everything much easier cause sometimes there multiple ones and its hard to keep track of whats changing
+    Manipulatiing variables with media queries just makes everything much easier.
+    Sometimes there multiple ones and its hard to keep track of whats changing.
 ```css
 
 @media screen and (max-width: 375px) {
