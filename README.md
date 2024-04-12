@@ -41,8 +41,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-    Manipulatiing variables with media queries just makes everything much easier.
-    Sometimes there multiple ones and its hard to keep track of whats changing.
+Manipulatiing variables with media queries just makes everything much easier.
+Sometimes there multiple ones and its hard to keep track of whats changing.
+
 ```css
 
 @media screen and (max-width: 375px) {
