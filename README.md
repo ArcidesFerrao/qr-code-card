@@ -15,6 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Available Scripts](#available-scripts)
   - [Learn More](#learn-more)
 - [Deployment](#deployment)
+- [References]
 
 
 ## Overview
